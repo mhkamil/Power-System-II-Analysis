@@ -19,8 +19,8 @@ This folder is the result of analysing **every file in this repository**:
 | 3 | [`04_Derivations_Guide.md`](04_Derivations_Guide.md) | Step skeletons for all derivations (unsymmetrical C & L, composite L, swing equation, cable stress, grading, string efficiency, equal-area criterion) |
 | 4 | [`05_Short_Questions_and_Definitions.md`](05_Short_Questions_and_Definitions.md) | Ready answers for 1–5 mark theory (transposition, corona, CDV, string efficiency, HVDC, FACTS, …) |
 | 5 | [`06_Formula_Sheet.md`](06_Formula_Sheet.md) | All formulas on one page: revise just before the exam |
-| 7 | [`07_Model_Question_Sets_A_B_C.pdf`](07_Model_Question_Sets_A_B_C.pdf) | 🆕 **3 full model semester-final papers** in your batch's new pattern (60 marks; Part A: Q1, Q2 + Q3 OR Q4; Part B: Q5, Q8 + Q6 OR Q7) with answer key and coverage table |
 | 6 | [`02_Question_Frequency_Analysis.md`](02_Question_Frequency_Analysis.md) | Proof of the ranking: every past question mapped by topic, paper and repeat count |
+| 7 | [`07_Model_Question_Sets_A_B_C.pdf`](07_Model_Question_Sets_A_B_C.pdf) | 🆕 **3 full model semester-final papers** in your batch's new pattern (60 marks; Part A: Q1, Q2 + Q3 OR Q4; Part B: Q5, Q8 + Q6 OR Q7) with answer key and coverage table |
 
 ## The 10 things that matter most (if you read nothing else)
 1. **Derive capacitance of a 3-φ line with unsymmetrical spacing** (asked 5×, including your TT-1)
