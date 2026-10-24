@@ -20,7 +20,8 @@ This folder is the result of analysing **every file in this repository**:
 | 4 | [`05_Short_Questions_and_Definitions.md`](05_Short_Questions_and_Definitions.md) | Ready answers for 1–5 mark theory (transposition, corona, CDV, string efficiency, HVDC, FACTS, …) |
 | 5 | [`06_Formula_Sheet.md`](06_Formula_Sheet.md) | All formulas on one page: revise just before the exam |
 | 6 | [`02_Question_Frequency_Analysis.md`](02_Question_Frequency_Analysis.md) | Proof of the ranking: every past question mapped by topic, paper and repeat count |
-| 7 | [`07_Model_Question_Sets_A_B_C.pdf`](07_Model_Question_Sets_A_B_C.pdf) | 🆕 **3 full model semester-final papers** in your batch's new pattern (60 marks; Part A: Q1, Q2 + Q3 OR Q4; Part B: Q5, Q8 + Q6 OR Q7) with answer key and coverage table |
+| 7 | [`07_Model_Question_Sets_A_B_C.pdf`](07_Model_Question_Sets_A_B_C.pdf) | **3 model papers built only from previous-year questions** in your batch's new pattern (60 marks; Part A: Q1, Q2 + Q3 OR Q4; Part B: Q5, Q8 + Q6 OR Q7) with answer key and coverage table |
+| 8 | [`08_OBE_Model_Question_Sets_1_2_3.pdf`](08_OBE_Model_Question_Sets_1_2_3.pdf) | 🆕⭐ **Use these first.** 3 OBE model papers built on the course learning outcomes (CO1–CO5). Every sub-question is tagged with its CO and Bloom level, about 20 % of marks are exact previous-year questions and the rest are new CO-based questions, with a CO map and answer key |
 
 ## The 10 things that matter most (if you read nothing else)
 1. **Derive capacitance of a 3-φ line with unsymmetrical spacing** (asked 5×, including your TT-1)
